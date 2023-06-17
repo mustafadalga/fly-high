@@ -1,0 +1,1460 @@
+{
+  "offers": [
+    {
+      "origin": "DXB",
+      "destination": "FRA",
+      "departureDate": "2023-06-22T15:24:50.498Z",
+      "returnDate": "2023-06-28T04:00:01.257Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 16,
+      "price": {
+        "amount": 406,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-6e59c236-6152-4cd9-9502-47132e73d314"
+    },
+    {
+      "origin": "DXB",
+      "destination": "HND",
+      "departureDate": "2023-06-18T00:13:49.213Z",
+      "returnDate": "2023-07-12T08:47:14.516Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 66,
+      "price": {
+        "amount": 248,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-5f864af6-96e1-4088-917a-fdd4bf3c74be"
+    },
+    {
+      "origin": "JFK",
+      "destination": "FRA",
+      "departureDate": "2023-06-15T13:05:06.988Z",
+      "returnDate": "2023-07-03T22:12:25.265Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 75,
+      "price": {
+        "amount": 332,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-1e4ff6d3-c53c-490a-a338-aa009a047510"
+    },
+    {
+      "origin": "FRA",
+      "destination": "LHR",
+      "departureDate": "2023-06-16T15:53:14.761Z",
+      "returnDate": "2023-07-07T18:48:41.863Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 82,
+      "price": {
+        "amount": 355,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-5e4b0626-c54d-4caa-b1aa-5ae6c874093c"
+    },
+    {
+      "origin": "JFK",
+      "destination": "FRA",
+      "departureDate": "2023-06-22T11:08:44.647Z",
+      "returnDate": "2023-06-27T13:13:02.023Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 47,
+      "price": {
+        "amount": 364,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ef0f8683-aeb0-4dbc-ba9c-b2e78faf183c"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-23T09:51:17.646Z",
+      "returnDate": "2023-06-24T13:07:28.174Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 98,
+      "price": {
+        "amount": 424,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-c4d3413c-e2e5-4884-ae5d-aff7d264a3db"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-23T03:52:49.137Z",
+      "returnDate": "2023-07-02T05:30:30.051Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 55,
+      "price": {
+        "amount": 421,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-c52f8829-b2bf-40df-aaaf-f01850ea29aa"
+    },
+    {
+      "origin": "DXB",
+      "destination": "SYD",
+      "departureDate": "2023-06-20T21:11:01.112Z",
+      "returnDate": "2023-07-12T15:24:19.573Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 19,
+      "price": {
+        "amount": 367,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-f88cdc55-1612-4829-9d7c-3613df6ed3f5"
+    },
+    {
+      "origin": "LHR",
+      "destination": "DXB",
+      "departureDate": "2023-06-19T01:38:37.112Z",
+      "returnDate": "2023-06-22T11:41:57.926Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 47,
+      "price": {
+        "amount": 158,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-fc57ef6f-c357-4302-aec1-9fac2db9453f"
+    },
+    {
+      "origin": "FRA",
+      "destination": "SYD",
+      "departureDate": "2023-06-21T00:22:20.862Z",
+      "returnDate": "2023-07-12T02:30:02.523Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 81,
+      "price": {
+        "amount": 435,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0f6d3a39-b073-4590-b79d-f8cb889c9aeb"
+    },
+    {
+      "origin": "JFK",
+      "destination": "LHR",
+      "departureDate": "2023-06-20T17:01:11.906Z",
+      "returnDate": "2023-06-25T21:34:11.224Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 71,
+      "price": {
+        "amount": 470,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-dff35fd0-fb0e-4cd7-ab8f-f323b0511360"
+    },
+    {
+      "origin": "FRA",
+      "destination": "LHR",
+      "departureDate": "2023-06-18T14:39:07.450Z",
+      "returnDate": "2023-06-28T14:59:33.990Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 81,
+      "price": {
+        "amount": 168,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-829c0fdc-c42d-447b-aef1-d081a33dd3de"
+    },
+    {
+      "origin": "DXB",
+      "destination": "FRA",
+      "departureDate": "2023-06-16T20:59:47.117Z",
+      "returnDate": "2023-06-25T00:26:38.941Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 47,
+      "price": {
+        "amount": 342,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ec33eaeb-c299-4d7b-a110-8f87b2cb1e27"
+    },
+    {
+      "origin": "FRA",
+      "destination": "SYD",
+      "departureDate": "2023-06-19T08:03:16.680Z",
+      "returnDate": "2023-07-06T19:20:59.018Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 26,
+      "price": {
+        "amount": 125,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-56c93f0e-73f9-4f0d-bdca-a2045a0ac1da"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-22T13:14:08.322Z",
+      "returnDate": "2023-07-01T20:21:42.708Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 21,
+      "price": {
+        "amount": 443,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-2e559797-5989-40c2-a333-8fd0e09df39d"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-18T15:02:46.613Z",
+      "returnDate": "2023-07-11T18:46:25.890Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 68,
+      "price": {
+        "amount": 451,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-8b41ba96-b036-4aa5-80e0-b5a2e3960005"
+    },
+    {
+      "origin": "LHR",
+      "destination": "SYD",
+      "departureDate": "2023-06-20T02:44:48.883Z",
+      "returnDate": "2023-07-02T01:25:16.469Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 99,
+      "price": {
+        "amount": 104,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-57f8cfaa-2527-4a0a-87aa-92bab8ee4ec2"
+    },
+    {
+      "origin": "FRA",
+      "destination": "LHR",
+      "departureDate": "2023-06-22T20:09:56.574Z",
+      "returnDate": "2023-06-26T11:22:46.313Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 38,
+      "price": {
+        "amount": 492,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-93071ee8-8d04-4521-a15e-edca33f0bbe9"
+    },
+    {
+      "origin": "SYD",
+      "destination": "JFK",
+      "departureDate": "2023-06-20T12:21:23.899Z",
+      "returnDate": "2023-06-27T07:37:16.792Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 3,
+      "price": {
+        "amount": 458,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-921c2370-eb1e-4786-92af-2fb70e95acc3"
+    },
+    {
+      "origin": "JFK",
+      "destination": "HND",
+      "departureDate": "2023-06-17T14:56:02.895Z",
+      "returnDate": "2023-07-02T12:30:23.750Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 24,
+      "price": {
+        "amount": 467,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ed300dcc-96ca-4612-b0cc-d84fd0c48c5d"
+    },
+    {
+      "origin": "LHR",
+      "destination": "JFK",
+      "departureDate": "2023-06-18T17:01:48.246Z",
+      "returnDate": "2023-07-12T06:19:29.459Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 45,
+      "price": {
+        "amount": 290,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-e7e69014-5725-4938-a71c-43c09208a1a0"
+    },
+    {
+      "origin": "HND",
+      "destination": "FRA",
+      "departureDate": "2023-06-18T10:28:39.604Z",
+      "returnDate": "2023-07-01T06:36:11.160Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 24,
+      "price": {
+        "amount": 411,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0a2a17e7-407f-4343-bb16-f15aee888023"
+    },
+    {
+      "origin": "JFK",
+      "destination": "SYD",
+      "departureDate": "2023-06-24T14:34:04.296Z",
+      "returnDate": "2023-07-05T01:48:08.755Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 56,
+      "price": {
+        "amount": 447,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-acc4e8bf-c65b-490d-9b69-febe1bc62f4c"
+    },
+    {
+      "origin": "DXB",
+      "destination": "SYD",
+      "departureDate": "2023-06-19T12:56:29.895Z",
+      "returnDate": "2023-06-30T22:48:10.574Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 69,
+      "price": {
+        "amount": 368,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-c8aac3b8-4bfb-4c6c-84b8-4f64034ed847"
+    },
+    {
+      "origin": "LHR",
+      "destination": "DXB",
+      "departureDate": "2023-06-17T06:47:45.536Z",
+      "returnDate": "2023-06-19T17:12:29.766Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 96,
+      "price": {
+        "amount": 369,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-c21c6b50-3a9e-455f-ada4-f5b0cad268dd"
+    },
+    {
+      "origin": "SYD",
+      "destination": "JFK",
+      "departureDate": "2023-06-17T16:38:13.155Z",
+      "returnDate": "2023-07-04T09:17:41.907Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 24,
+      "price": {
+        "amount": 131,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-db30d140-2206-496e-8f59-9f17f19f21ad"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-15T05:02:58.251Z",
+      "returnDate": "2023-06-18T04:50:15.616Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 3,
+      "price": {
+        "amount": 154,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-dc2f0737-1ff3-407a-807d-70d94854d3e6"
+    },
+    {
+      "origin": "DXB",
+      "destination": "HND",
+      "departureDate": "2023-06-21T11:23:41.646Z",
+      "returnDate": "2023-06-29T12:42:43.710Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 4,
+      "price": {
+        "amount": 82,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0ed58d29-e917-49b0-b0b9-bda915473f69"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-22T00:04:26.995Z",
+      "returnDate": "2023-06-23T21:50:55.312Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 55,
+      "price": {
+        "amount": 496,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-6495f962-e4c5-4328-962b-b8061bd87915"
+    },
+    {
+      "origin": "HND",
+      "destination": "FRA",
+      "departureDate": "2023-06-20T05:56:27.418Z",
+      "returnDate": "2023-06-30T06:02:14.213Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 16,
+      "price": {
+        "amount": 309,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-eecc08e4-7fac-4c31-aeca-08a6be92b957"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-19T09:42:46.313Z",
+      "returnDate": "2023-07-03T15:04:53.957Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 76,
+      "price": {
+        "amount": 90,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0bfa7f0d-81d5-4f07-b2b1-ec525fac31d7"
+    },
+    {
+      "origin": "SYD",
+      "destination": "FRA",
+      "departureDate": "2023-06-24T07:12:37.457Z",
+      "returnDate": "2023-06-28T21:39:34.252Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 55,
+      "price": {
+        "amount": 434,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0e33ff5e-ad89-43c1-8ba7-1e6cc6da21d6"
+    },
+    {
+      "origin": "JFK",
+      "destination": "HND",
+      "departureDate": "2023-06-18T03:02:29.968Z",
+      "returnDate": "2023-06-25T02:00:50.688Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 13,
+      "price": {
+        "amount": 340,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-a2499cbd-d60f-4909-800d-b439d38aa4d6"
+    },
+    {
+      "origin": "SYD",
+      "destination": "JFK",
+      "departureDate": "2023-06-16T04:00:16.511Z",
+      "returnDate": "2023-06-26T16:40:15.267Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 24,
+      "price": {
+        "amount": 157,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-c2e972bd-edcd-49d3-8f33-7016b6c652b6"
+    },
+    {
+      "origin": "DXB",
+      "destination": "FRA",
+      "departureDate": "2023-06-18T19:23:38.109Z",
+      "returnDate": "2023-06-27T05:06:07.926Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 60,
+      "price": {
+        "amount": 381,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-aa3c63a2-2d4b-40a3-8ff2-1f3576e735c5"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-22T10:06:48.056Z",
+      "returnDate": "2023-06-27T14:34:54.899Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 60,
+      "price": {
+        "amount": 296,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-23719c4e-26a6-4cc1-8627-1c84ebdc8cbe"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-18T02:40:26.926Z",
+      "returnDate": "2023-07-11T16:40:58.985Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 22,
+      "price": {
+        "amount": 359,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-79831078-2edf-466d-89de-77a87668edcb"
+    },
+    {
+      "origin": "FRA",
+      "destination": "JFK",
+      "departureDate": "2023-06-24T04:53:57.431Z",
+      "returnDate": "2023-07-11T16:36:16.456Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 9,
+      "price": {
+        "amount": 465,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-6eda5465-264d-4606-9bb4-a646e7bec9de"
+    },
+    {
+      "origin": "SYD",
+      "destination": "JFK",
+      "departureDate": "2023-06-24T09:22:49.852Z",
+      "returnDate": "2023-06-29T17:29:52.144Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 16,
+      "price": {
+        "amount": 88,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-c7b8fd42-939c-4e30-98a0-c08956267f6f"
+    },
+    {
+      "origin": "HND",
+      "destination": "JFK",
+      "departureDate": "2023-06-16T23:47:25.527Z",
+      "returnDate": "2023-06-25T03:09:03.638Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 98,
+      "price": {
+        "amount": 495,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-adaa9211-334b-4c9f-9497-cd43e177c2a1"
+    },
+    {
+      "origin": "LHR",
+      "destination": "FRA",
+      "departureDate": "2023-06-15T00:25:00.294Z",
+      "returnDate": "2023-06-20T05:54:34.122Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 47,
+      "price": {
+        "amount": 182,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ad1cd984-5a64-4c31-ac6d-8f8b4e334f14"
+    },
+    {
+      "origin": "LHR",
+      "destination": "DXB",
+      "departureDate": "2023-06-18T09:50:28.828Z",
+      "returnDate": "2023-07-14T11:58:22.325Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 38,
+      "price": {
+        "amount": 466,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0c014603-8691-4453-a9db-98e2fedc8c50"
+    },
+    {
+      "origin": "FRA",
+      "destination": "SYD",
+      "departureDate": "2023-06-22T14:46:56.964Z",
+      "returnDate": "2023-07-04T00:39:58.904Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 20,
+      "price": {
+        "amount": 261,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-8b2c646f-7917-4574-971f-8aaae47647f5"
+    },
+    {
+      "origin": "HND",
+      "destination": "SYD",
+      "departureDate": "2023-06-20T14:02:14.668Z",
+      "returnDate": "2023-07-14T08:02:16.287Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 8,
+      "price": {
+        "amount": 289,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-f4fc5f86-9b79-43e8-b37a-6a6217e61618"
+    },
+    {
+      "origin": "JFK",
+      "destination": "DXB",
+      "departureDate": "2023-06-18T09:40:45.534Z",
+      "returnDate": "2023-06-21T23:01:15.229Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 95,
+      "price": {
+        "amount": 116,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-6b41bfe0-5131-4b95-9387-3efae5236feb"
+    },
+    {
+      "origin": "LHR",
+      "destination": "JFK",
+      "departureDate": "2023-06-15T10:27:00.011Z",
+      "returnDate": "2023-06-24T23:57:18.654Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 84,
+      "price": {
+        "amount": 401,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-9dbd723c-3f80-4b91-9930-daf8f285320f"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-22T05:27:01.764Z",
+      "returnDate": "2023-07-09T23:31:26.212Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 29,
+      "price": {
+        "amount": 84,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-f40488ea-0a7e-4f09-aed3-77227c39360b"
+    },
+    {
+      "origin": "SYD",
+      "destination": "DXB",
+      "departureDate": "2023-06-22T18:04:05.620Z",
+      "returnDate": "2023-07-14T10:03:44.709Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 59,
+      "price": {
+        "amount": 89,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-b4f75b9f-1fe2-4a1c-ad2d-eebd71757e35"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-19T16:36:02.231Z",
+      "returnDate": "2023-07-11T00:03:08.130Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 89,
+      "price": {
+        "amount": 163,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-bb13986c-0aa7-411b-a7b9-644fc30fe095"
+    },
+    {
+      "origin": "SYD",
+      "destination": "LHR",
+      "departureDate": "2023-06-21T12:46:34.134Z",
+      "returnDate": "2023-06-30T11:00:48.930Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 35,
+      "price": {
+        "amount": 102,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-44541308-a235-4b37-bbc5-b81a91b256fb"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-19T15:20:42.117Z",
+      "returnDate": "2023-07-06T06:13:58.408Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 91,
+      "price": {
+        "amount": 490,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-d7783364-261b-4763-8b88-044a383dd586"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-22T14:37:33.382Z",
+      "returnDate": "2023-06-23T11:14:47.524Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 12,
+      "price": {
+        "amount": 195,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ca162fd1-958f-4b7f-ac21-15f6e4f4f11b"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-20T00:52:16.093Z",
+      "returnDate": "2023-06-20T22:14:39.744Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 79,
+      "price": {
+        "amount": 180,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-e7b173bd-efed-4abf-95de-0e86a1bd64a7"
+    },
+    {
+      "origin": "DXB",
+      "destination": "SYD",
+      "departureDate": "2023-06-22T19:27:23.151Z",
+      "returnDate": "2023-07-07T06:53:11.879Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 11,
+      "price": {
+        "amount": 351,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-f59bf517-daac-4234-b3d7-b6468d3c299e"
+    },
+    {
+      "origin": "FRA",
+      "destination": "SYD",
+      "departureDate": "2023-06-18T23:08:17.976Z",
+      "returnDate": "2023-06-20T22:45:48.192Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 88,
+      "price": {
+        "amount": 350,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-cf96d0b7-cc68-4c35-8815-3ede3b4d0ac1"
+    },
+    {
+      "origin": "HND",
+      "destination": "JFK",
+      "departureDate": "2023-06-16T06:01:27.185Z",
+      "returnDate": "2023-06-30T18:48:21.816Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 60,
+      "price": {
+        "amount": 431,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-13658594-67b1-4ae6-96f5-724a89b8953e"
+    },
+    {
+      "origin": "JFK",
+      "destination": "SYD",
+      "departureDate": "2023-06-17T01:09:27.993Z",
+      "returnDate": "2023-06-30T03:36:03.543Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 13,
+      "price": {
+        "amount": 393,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-3b5601f6-5a94-4e02-a947-e4641057b96a"
+    },
+    {
+      "origin": "LHR",
+      "destination": "DXB",
+      "departureDate": "2023-06-24T05:29:49.327Z",
+      "returnDate": "2023-07-10T15:14:26.328Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 57,
+      "price": {
+        "amount": 91,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-90c98dfc-f355-4cae-8313-4ad77f0fa54b"
+    },
+    {
+      "origin": "FRA",
+      "destination": "HND",
+      "departureDate": "2023-06-21T06:40:14.937Z",
+      "returnDate": "2023-06-29T07:02:01.971Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 60,
+      "price": {
+        "amount": 135,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ffd6f654-babe-43df-b69d-e40e502f1a11"
+    },
+    {
+      "origin": "JFK",
+      "destination": "FRA",
+      "departureDate": "2023-06-20T05:37:57.109Z",
+      "returnDate": "2023-06-22T19:10:36.082Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 5,
+      "price": {
+        "amount": 379,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ac0b3b12-dfed-424d-8435-6fd2f78fb39c"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-20T15:14:36.644Z",
+      "returnDate": "2023-07-01T10:13:36.901Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 34,
+      "price": {
+        "amount": 84,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-edf27b28-112e-4ec9-9698-72a73668a523"
+    },
+    {
+      "origin": "SYD",
+      "destination": "DXB",
+      "departureDate": "2023-06-22T18:35:27.528Z",
+      "returnDate": "2023-06-28T22:42:45.817Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 53,
+      "price": {
+        "amount": 238,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-459fb43a-41fa-4d9f-afa4-4cbe0aedeea2"
+    },
+    {
+      "origin": "JFK",
+      "destination": "HND",
+      "departureDate": "2023-06-18T22:56:05.774Z",
+      "returnDate": "2023-06-22T09:42:34.544Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 80,
+      "price": {
+        "amount": 491,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-1d6be422-e864-4870-a00e-edd2c103e3ff"
+    },
+    {
+      "origin": "JFK",
+      "destination": "HND",
+      "departureDate": "2023-06-15T11:46:13.830Z",
+      "returnDate": "2023-06-19T17:06:38.560Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 13,
+      "price": {
+        "amount": 487,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-f5403126-a17b-4683-ae70-75e10789dfe9"
+    },
+    {
+      "origin": "HND",
+      "destination": "FRA",
+      "departureDate": "2023-06-21T12:28:32.657Z",
+      "returnDate": "2023-07-01T19:14:50.573Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airport",
+      "seatAvailability": 40,
+      "price": {
+        "amount": 305,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-137d7b8f-3730-4379-818c-548749db709a"
+    },
+    {
+      "origin": "SYD",
+      "destination": "FRA",
+      "departureDate": "2023-06-24T00:54:53.374Z",
+      "returnDate": "2023-06-29T03:28:19.839Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 72,
+      "price": {
+        "amount": 305,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-218232ec-a6bf-4227-bbd2-cc4a64b5f608"
+    },
+    {
+      "origin": "JFK",
+      "destination": "FRA",
+      "departureDate": "2023-06-23T17:59:48.336Z",
+      "returnDate": "2023-06-24T08:33:37.545Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 2,
+      "price": {
+        "amount": 381,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-2505d674-64ab-421e-9905-f6c5010be1fa"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-23T15:51:04.169Z",
+      "returnDate": "2023-06-30T18:03:52.550Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 80,
+      "price": {
+        "amount": 487,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-022ebbb4-3314-4c4f-b1e9-3e9ea1d104d3"
+    },
+    {
+      "origin": "JFK",
+      "destination": "SYD",
+      "departureDate": "2023-06-21T05:37:51.528Z",
+      "returnDate": "2023-07-12T15:30:55.134Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 11,
+      "price": {
+        "amount": 220,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-e4b20884-7d04-4249-a0bd-7204c8906eab"
+    },
+    {
+      "origin": "SYD",
+      "destination": "FRA",
+      "departureDate": "2023-06-17T14:01:03.292Z",
+      "returnDate": "2023-06-19T22:29:41.227Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 81,
+      "price": {
+        "amount": 303,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-d9315bb8-29c5-407e-8ddf-bdafe057c841"
+    },
+    {
+      "origin": "FRA",
+      "destination": "SYD",
+      "departureDate": "2023-06-20T20:06:47.779Z",
+      "returnDate": "2023-06-24T08:42:07.460Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 84,
+      "price": {
+        "amount": 243,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-28bd5fb0-0874-426f-9ca7-324bce6cdcc7"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-19T15:21:34.022Z",
+      "returnDate": "2023-06-20T07:59:38.696Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 99,
+      "price": {
+        "amount": 321,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0226d2ff-64ef-4456-8239-54b22ae734ae"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-16T00:23:15.454Z",
+      "returnDate": "2023-07-09T22:46:03.647Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 96,
+      "price": {
+        "amount": 173,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-021988d9-5598-46e1-a0dd-98e123a09cac"
+    },
+    {
+      "origin": "FRA",
+      "destination": "SYD",
+      "departureDate": "2023-06-24T05:30:54.880Z",
+      "returnDate": "2023-06-30T13:02:18.575Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 6,
+      "price": {
+        "amount": 312,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-f5c3023e-76f1-409b-8be8-edfa13765fb7"
+    },
+    {
+      "origin": "SYD",
+      "destination": "JFK",
+      "departureDate": "2023-06-21T15:29:24.863Z",
+      "returnDate": "2023-06-28T08:56:01.433Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 50,
+      "price": {
+        "amount": 474,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-36afacbd-e66e-4099-a41f-60031e7e634f"
+    },
+    {
+      "origin": "SYD",
+      "destination": "FRA",
+      "departureDate": "2023-06-24T14:07:48.751Z",
+      "returnDate": "2023-07-11T09:26:53.090Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 83,
+      "price": {
+        "amount": 210,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-717b6029-1394-49a7-9fac-e000e8db9884"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-23T14:47:56.268Z",
+      "returnDate": "2023-06-26T08:36:54.658Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 71,
+      "price": {
+        "amount": 266,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-26efadad-4b44-4fd0-b3d4-45ad5d9b1bae"
+    },
+    {
+      "origin": "HND",
+      "destination": "SYD",
+      "departureDate": "2023-06-19T11:25:29.592Z",
+      "returnDate": "2023-07-10T08:00:31.689Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 83,
+      "price": {
+        "amount": 369,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-bcc0d3ea-3780-4f62-abb1-63ced0a1da9a"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-20T22:15:53.890Z",
+      "returnDate": "2023-06-20T23:57:16.369Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 66,
+      "price": {
+        "amount": 318,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-702b909e-874f-45c4-8b74-41abbf2472c7"
+    },
+    {
+      "origin": "FRA",
+      "destination": "LHR",
+      "departureDate": "2023-06-23T21:40:05.923Z",
+      "returnDate": "2023-06-29T08:28:34.016Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 61,
+      "price": {
+        "amount": 462,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-253c0eec-522e-4f6c-8310-53308cdd3937"
+    },
+    {
+      "origin": "JFK",
+      "destination": "DXB",
+      "departureDate": "2023-06-18T18:43:49.674Z",
+      "returnDate": "2023-06-22T00:28:59.255Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 82,
+      "price": {
+        "amount": 393,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ee79f43a-fea1-43ef-a4be-823f48448228"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-16T19:07:45.446Z",
+      "returnDate": "2023-06-30T02:16:32.808Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 5,
+      "price": {
+        "amount": 414,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0001d3cb-9e50-496c-b25e-b4187f8fbcf1"
+    },
+    {
+      "origin": "SYD",
+      "destination": "DXB",
+      "departureDate": "2023-06-23T11:30:55.650Z",
+      "returnDate": "2023-07-03T00:19:54.459Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 82,
+      "price": {
+        "amount": 189,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-8fb30257-4f32-44b1-9645-5a859a4e4a10"
+    },
+    {
+      "origin": "HND",
+      "destination": "FRA",
+      "departureDate": "2023-06-24T17:17:47.781Z",
+      "returnDate": "2023-06-25T06:25:44.114Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 20,
+      "price": {
+        "amount": 445,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-48913fee-8fe7-486b-b472-b39148af9e09"
+    },
+    {
+      "origin": "LHR",
+      "destination": "DXB",
+      "departureDate": "2023-06-24T11:28:58.506Z",
+      "returnDate": "2023-07-01T14:41:22.984Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 43,
+      "price": {
+        "amount": 466,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-426aa803-4d9d-45b4-ac57-a25505d5164a"
+    },
+    {
+      "origin": "SYD",
+      "destination": "LHR",
+      "departureDate": "2023-06-15T08:09:51.926Z",
+      "returnDate": "2023-07-13T14:25:36.879Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 81,
+      "price": {
+        "amount": 457,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ea656de7-c2a6-4b82-b40d-3d7e0f21a64e"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-18T21:38:31.055Z",
+      "returnDate": "2023-06-29T21:01:57.188Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 19,
+      "price": {
+        "amount": 168,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-d0e10705-a1ee-42d5-8fe7-8a3dfbec3e01"
+    },
+    {
+      "origin": "JFK",
+      "destination": "LHR",
+      "departureDate": "2023-06-21T01:33:10.536Z",
+      "returnDate": "2023-06-25T19:24:04.526Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 85,
+      "price": {
+        "amount": 150,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-6846b6c3-c3a4-4050-84d9-69b6bca21acd"
+    },
+    {
+      "origin": "FRA",
+      "destination": "JFK",
+      "departureDate": "2023-06-20T08:19:28.497Z",
+      "returnDate": "2023-07-06T06:30:57.113Z",
+      "image": "https://source.unsplash.com/featured/landscape/?sky",
+      "seatAvailability": 37,
+      "price": {
+        "amount": 460,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0d640468-25b4-4e07-a04c-9c169cecda51"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-21T03:30:07.184Z",
+      "returnDate": "2023-07-09T15:04:26.887Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 35,
+      "price": {
+        "amount": 146,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-bbca51c7-4ef0-430a-997c-dc603b9c14f7"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-19T15:28:35.424Z",
+      "returnDate": "2023-06-19T21:25:20.796Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 93,
+      "price": {
+        "amount": 311,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-b7c1aab8-df09-4c18-b10a-8cbc17f57bf6"
+    },
+    {
+      "origin": "DXB",
+      "destination": "JFK",
+      "departureDate": "2023-06-21T09:50:37.386Z",
+      "returnDate": "2023-06-24T16:33:35.834Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 17,
+      "price": {
+        "amount": 484,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-b5af982d-45bd-4f05-af47-1cab02c40bab"
+    },
+    {
+      "origin": "SYD",
+      "destination": "DXB",
+      "departureDate": "2023-06-22T17:02:39.219Z",
+      "returnDate": "2023-06-28T00:49:40.491Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airliner",
+      "seatAvailability": 34,
+      "price": {
+        "amount": 400,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-d5920ae4-8fa4-43f7-80bd-deb4857a382f"
+    },
+    {
+      "origin": "JFK",
+      "destination": "HND",
+      "departureDate": "2023-06-16T08:21:05.556Z",
+      "returnDate": "2023-06-24T13:09:23.541Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 72,
+      "price": {
+        "amount": 287,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-7e2594de-b6f3-4cea-9881-37e72954d390"
+    },
+    {
+      "origin": "SYD",
+      "destination": "LHR",
+      "departureDate": "2023-06-21T16:23:27.469Z",
+      "returnDate": "2023-07-07T20:53:23.295Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flight",
+      "seatAvailability": 6,
+      "price": {
+        "amount": 93,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-0fa29ab7-ecf4-4be0-8a6c-b13a2e581a0f"
+    },
+    {
+      "origin": "HND",
+      "destination": "LHR",
+      "departureDate": "2023-06-18T11:22:55.646Z",
+      "returnDate": "2023-06-26T18:51:08.057Z",
+      "image": "https://source.unsplash.com/featured/landscape/?flying",
+      "seatAvailability": 39,
+      "price": {
+        "amount": 156,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-e3f61c9f-fb49-4cb2-8a9c-e711350c9ef9"
+    },
+    {
+      "origin": "FRA",
+      "destination": "DXB",
+      "departureDate": "2023-06-19T20:52:40.199Z",
+      "returnDate": "2023-07-03T17:20:57.770Z",
+      "image": "https://source.unsplash.com/featured/landscape/?travel",
+      "seatAvailability": 3,
+      "price": {
+        "amount": 140,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-e8184acb-eddc-4cc4-b4a0-4c1e6c3c299d"
+    },
+    {
+      "origin": "SYD",
+      "destination": "JFK",
+      "departureDate": "2023-06-21T22:16:35.350Z",
+      "returnDate": "2023-07-07T19:34:25.276Z",
+      "image": "https://source.unsplash.com/featured/landscape/?transportation",
+      "seatAvailability": 24,
+      "price": {
+        "amount": 399,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-a2cae529-95f2-474d-8478-98ea931a9bdd"
+    },
+    {
+      "origin": "JFK",
+      "destination": "DXB",
+      "departureDate": "2023-06-24T07:24:10.812Z",
+      "returnDate": "2023-06-28T15:41:39.272Z",
+      "image": "https://source.unsplash.com/featured/landscape/?airplane",
+      "seatAvailability": 93,
+      "price": {
+        "amount": 156,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-d8848f11-aa24-4673-8eb9-8d41fdb26216"
+    },
+    {
+      "origin": "DXB",
+      "destination": "LHR",
+      "departureDate": "2023-06-17T01:20:46.155Z",
+      "returnDate": "2023-07-01T15:18:09.208Z",
+      "image": "https://source.unsplash.com/featured/landscape/?aviation",
+      "seatAvailability": 99,
+      "price": {
+        "amount": 324,
+        "currency": "EUR"
+      },
+      "offerType": "amadeusExactMatch",
+      "uuid": "SA00001-ba7fe011-5b7a-4d11-b6c1-a5c7c2c2ddd7"
+    }
+  ],
+  "origins": [
+    {
+      "id": "SYD",
+      "name": "Sydney, Australia"
+    },
+    {
+      "id": "HND",
+      "name": "Tokyo, Japan"
+    },
+    {
+      "id": "DXB",
+      "name": "Dubai, United Arab Emirates"
+    },
+    {
+      "id": "FRA",
+      "name": "Frankfurt, Germany"
+    },
+    {
+      "id": "LHR",
+      "name": "London, United Kingdom"
+    },
+    {
+      "id": "JFK",
+      "name": "New York City, USA"
+    }
+  ],
+  "destinations": [
+    {
+      "id": "SYD",
+      "name": "Sydney, Australia"
+    },
+    {
+      "id": "HND",
+      "name": "Tokyo, Japan"
+    },
+    {
+      "id": "DXB",
+      "name": "Dubai, United Arab Emirates"
+    },
+    {
+      "id": "FRA",
+      "name": "Frankfurt, Germany"
+    },
+    {
+      "id": "LHR",
+      "name": "London, United Kingdom"
+    },
+    {
+      "id": "JFK",
+      "name": "New York City, USA"
+    },
+    {
+      "id": "CZR",
+      "name": "Cizre"
+    }
+  ]
+}
