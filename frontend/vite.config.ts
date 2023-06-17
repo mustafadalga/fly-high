@@ -14,9 +14,4 @@ export default defineConfig({
     port: 8080,
     host: "::", //'0.0.0.0',
   },
-  test: {
-    globals: true,
-    environment: 'jsdom',
-    setupFiles: "./jest-dom.setup.ts",
-  }
 })
