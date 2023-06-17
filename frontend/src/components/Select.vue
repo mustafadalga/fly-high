@@ -165,7 +165,7 @@ onBeforeUnmount(() => {
         v-model="search"
         @mousedown.stop="prepareForNewSearch"
         autocomplete="off"
-        class="w-full py-2 pl-4 pr-10 h-12 border-2 rounded-lg focus:outline-none text-sm lg:text-base"
+        class="w-full py-2 pl-4 pr-10 h-12 border-2 rounded-lg focus:outline-none text-sm lg:text-base input"
         :placeholder="placeholderText"/>
     <div
         class="absolute h-full top-0 right-2.5 grid place-items-center cursor-pointer"
@@ -182,7 +182,7 @@ onBeforeUnmount(() => {
             v-for="(option,index) in filteredOptions"
             @click.stop="select(option)"
             :class="{'bg-blue-50': highlightedIndex == index}"
-            class="px-4 grid content-center h-12 hover:bg-blue-50 cursor-pointer text-sm lg:text-base">
+            class="px-4 grid content-center h-12 hover:bg-blue-50 cursor-pointer text-sm lg:text-base option">
           {{ option.name }}
         </div>
       </div>
